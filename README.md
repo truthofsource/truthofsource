@@ -31,7 +31,8 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Separate sign-in, application access and employee lifecycle changes. |
 | [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
-| [Secure Serverless Document Processing](https://github.com/truthofsource/secure-serverless-document-processing) | An upload is not a clean file, and an AI result is not an access decision. |
+| [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Defender scan results, quarantine, exact-version proofs and protected downloads. |
+| [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Portrait preparation, fixed-template rendering, issuance, reprints and employee access. |
 | [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
 
 ## Tech stack
