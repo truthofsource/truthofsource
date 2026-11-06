@@ -33,6 +33,9 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
 | [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Actual address plan, reciprocal peering, shared-service placement and explicit routing/DNS boundaries. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
+| [Trivy Vulnerability and Container Scanning](https://github.com/truthofsource/trivy-vulnerability-management) | Know what is in the release, what is vulnerable and whether the scan is complete. |
+| [TruffleHog Secret Detection and Git History Protection](https://github.com/truthofsource/trufflehog-secret-detection) | Deleting a credential from the latest file does not remove it from Git history. |
+| [Checkov Infrastructure Security for Azure](https://github.com/truthofsource/checkov-azure-infrastructure-security) | Find risky infrastructure settings before applying them, and keep every unresolved control visible. |
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Actual TypeScript handler, Flex host, runtime packaging and verified artifact promotion. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Runtime configuration, Entra/MSAL boundaries, SPA routing and prebuilt asset promotion with Terraform. |
 | [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Service catalog, TechDocs, Entra access, verified release evidence and recoverable VM hosting. |
