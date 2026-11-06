@@ -35,6 +35,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Defender scan results, quarantine, exact-version proofs and protected downloads. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Portrait preparation, fixed-template rendering, issuance, reprints and employee access. |
 | [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
+| [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Key-version coverage, verified backup receipts, isolated recovery and PostgreSQL restore helpers. |
 
 ## Tech stack
 
