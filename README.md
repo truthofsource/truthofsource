@@ -18,7 +18,7 @@
 
 ## About my work
 
-At **Efficient Supports**, I designed and built an Azure platform that brings employee onboarding, documentation, timesheets, shift notes and payroll review into one environment. It replaced disconnected paper and email processes with controlled digital records and consistent review steps.
+I designed and built an **Azure workforce and operations platform** for a healthcare services organization. It brings employee onboarding, documentation, timesheets, shift notes and payroll review into one environment, replacing disconnected paper and email processes with controlled digital records and consistent review steps.
 
 My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform**, **Azure Functions and Node.js**, **GitHub Actions**, and production troubleshooting. I work across application code and infrastructure, from a user's sign-in through API permissions, private storage, deployment and recovery.
 
