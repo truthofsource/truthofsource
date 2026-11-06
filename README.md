@@ -36,6 +36,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Portrait preparation, fixed-template rendering, issuance, reprints and employee access. |
 | [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
 | [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Key-version coverage, verified backup receipts, isolated recovery and PostgreSQL restore helpers. |
+| [Azure SQL Backup & Point-in-Time Recovery](https://github.com/truthofsource/azure-sql-backup-and-recovery) | Actual S0/Geo/14-day policy, private SQL infrastructure and isolated recovery preparation. |
 
 ## Tech stack
 
