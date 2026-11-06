@@ -43,6 +43,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
 | [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Give engineers one place to find the system, its owner and the instructions for running it. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Keep uploaded files unavailable until the correct file version passes its malware check. |
+| [Azure Storage Accounts, Containers and File Uploads](https://github.com/truthofsource/azure-blob-storage-and-file-uploads) | Organize application files, protect access and prepare for recovery. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Turn an approved employee photo into a consistent, print-ready badge. |
 | [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | Test recovery, make logs useful and keep temporary cloud resources under control. |
 | [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Recover the records, files, keys and settings the application needs to work. |
