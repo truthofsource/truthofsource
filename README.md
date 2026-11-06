@@ -29,6 +29,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | Project | Focus |
 | --- | --- |
 | [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Separate sign-in, application access and employee lifecycle changes. |
+| [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | AES-GCM field encryption, managed identity, exact-key permissions and rotation/recovery |
 | [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Defender scan results, quarantine, exact-version proofs and protected downloads. |
