@@ -1,11 +1,11 @@
 <h1 align="center">Kingsley Oku</h1>
 
 <p align="center">
-  <strong>Cloud Engineering · Microsoft Entra ID · Infrastructure Automation · DevSecOps</strong>
+  <strong>Cloud Engineering · Identity &amp; Access · Networking · DevSecOps</strong>
 </p>
 
 <p align="center">
-  I build and operate cloud platforms that connect identity, infrastructure and business applications.
+  I build and operate cloud platforms that connect identity, networking, infrastructure and business applications.
   My work focuses on secure access, repeatable delivery and practical systems that make everyday operations easier.
 </p>
 
@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingsley-oku-783a113b5/">LinkedIn</a> ·
-  <a href="https://github.com/truthofsource/okubuilt-docs">Engineering Portfolio</a> ·
   <a href="mailto:kingsleycoku@gmail.com">Email</a>
 </p>
 
@@ -43,13 +42,31 @@ My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform
   <img alt="SQL" src="https://img.shields.io/badge/SQL-00618A?style=flat-square" />
 </p>
 
+<p>
+  <img alt="Azure Private Link" src="https://img.shields.io/badge/Azure_Private_Link-006E8A?style=flat-square" />
+  <img alt="Azure Private DNS" src="https://img.shields.io/badge/Azure_Private_DNS-006E8A?style=flat-square" />
+  <img alt="Azure Key Vault" src="https://img.shields.io/badge/Azure_Key_Vault-176B42?style=flat-square" />
+  <img alt="Defender for Cloud" src="https://img.shields.io/badge/Defender_for_Cloud-176B42?style=flat-square" />
+</p>
+
 | Area | Tools and practices |
 | --- | --- |
 | Identity & access | Entra ID, Microsoft Graph, MSAL, OAuth 2.0, OIDC, SSO, application roles, RBAC, joiner/mover/leaver automation |
+| Cloud networking | Hub-and-spoke VNets, VNet peering, subnet segmentation, NSGs, Private Link, Azure Private DNS, service endpoints, DNS/TLS troubleshooting |
 | Workload security | Managed identities, OIDC federation, scoped Azure permissions, Azure Key Vault, HashiCorp Vault, encryption and audit logging |
 | Cloud & applications | Azure Functions, Azure SQL, Blob/Queue Storage, Logic Apps, Event Grid, React/TypeScript, Node.js, REST APIs |
 | Delivery & security testing | GitHub Actions, Terraform, Docker, ACR, Trivy, Checkov, TruffleHog, OWASP ZAP, SBOMs, verified artifact promotion and rollback |
+| Data protection & security monitoring | Envelope encryption, AES-256-GCM, RSA-OAEP-256 key wrapping, Defender for Storage, Defender for Cloud posture reviews, storage/Key Vault audit logs |
 | Operations & recovery | Application Insights, Log Analytics, KQL, PowerShell, Python, Azure CLI, Linux, backup/restore testing and runbooks |
+
+## Networking and security
+
+- **Network segmentation:** Designed hub-and-spoke connectivity, VNet peering and separate workload subnets, with NSGs controlling permitted traffic.
+- **Private service access:** Configured private endpoints and Azure Private DNS for selected SQL and storage paths. Troubleshot name resolution, routing, TLS and service permissions as separate parts of the connection.
+- **Keyless access:** Used managed identities and scoped roles for application access to Azure services, plus GitHub Actions OIDC federation for deployments without stored cloud passwords.
+- **Encryption and key custody:** Built envelope encryption with AES-256-GCM and Key Vault-backed RSA-OAEP-256 key wrapping for sensitive employee and payroll fields, with retained key versions supporting historical records.
+- **Malware-controlled uploads:** Connected Defender for Storage scan results to Event Grid, queues and a dedicated processor. Restricted previews and downloads until the result matched the stored file and its authorized record.
+- **Posture review and investigations:** Reviewed Defender for Cloud recommendations and resource configuration. Used Application Insights, Log Analytics, KQL and storage/Key Vault audit logs to investigate authentication, access and processing failures.
 
 ## Engineering highlights
 
@@ -72,9 +89,6 @@ My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform
 | Security+ | CompTIA |
 | CCNA | Cisco |
 
-## Public documentation
-
-I keep practical infrastructure, automation, troubleshooting and recovery write-ups in [OkuBuilt Documentation](https://github.com/truthofsource/okubuilt-docs).
 
 ## Connect
 
