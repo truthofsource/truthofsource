@@ -22,6 +22,18 @@ I designed and built an **Azure workforce and operations platform** for a health
 
 My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform**, **Azure Functions and Node.js**, **GitHub Actions**, and production troubleshooting. I work across application code and infrastructure, from a user's sign-in through API permissions, private storage, deployment and recovery.
 
+## Selected projects
+
+These case studies draw on implemented platform engineering work, with organization details removed. Each includes a business scenario, architecture, runnable reference, screenshots, validation and scaling tradeoffs.
+
+| Project | Focus |
+| --- | --- |
+| [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Separate sign-in, application access and employee lifecycle changes. |
+| [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
+| [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
+| [Secure Serverless Document Processing](https://github.com/truthofsource/secure-serverless-document-processing) | An upload is not a clean file, and an AI result is not an access decision. |
+| [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
+
 ## Tech stack
 
 <p>
