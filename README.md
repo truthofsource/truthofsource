@@ -28,25 +28,25 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Separate sign-in, application access and employee lifecycle changes. |
-| [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | AES-GCM field encryption, managed identity, exact-key permissions and rotation/recovery |
-| [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
-| [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Actual address plan, reciprocal peering, shared-service placement and explicit routing/DNS boundaries. |
-| [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse the infrastructure pattern without replacing the resources that already run the business. |
-| [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
-| [Trivy Vulnerability and Container Scanning](https://github.com/truthofsource/trivy-vulnerability-management) | Know what is in the release, what is vulnerable and whether the scan is complete. |
-| [TruffleHog Secret Detection and Git History Protection](https://github.com/truthofsource/trufflehog-secret-detection) | Deleting a credential from the latest file does not remove it from Git history. |
-| [Checkov Infrastructure Security for Azure](https://github.com/truthofsource/checkov-azure-infrastructure-security) | Find risky infrastructure settings before applying them, and keep every unresolved control visible. |
-| [Authenticated Web and API Security with OWASP ZAP](https://github.com/truthofsource/owasp-zap-authenticated-security) | A sign-in page is not the application. Test the authorized and denied paths behind it. |
-| [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Actual TypeScript handler, Flex host, runtime packaging and verified artifact promotion. |
-| [API Business Logic and Reliable Workforce Processes](https://github.com/truthofsource/api-business-logic-and-workflow-controls) | An API route is the entrance. Business rules decide which change is valid, authorized and still current. |
-| [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Runtime configuration, Entra/MSAL boundaries, SPA routing and prebuilt asset promotion with Terraform. |
-| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Service catalog, TechDocs, Entra access, verified release evidence and recoverable VM hosting. |
-| [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Defender scan results, quarantine, exact-version proofs and protected downloads. |
-| [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Portrait preparation, fixed-template rendering, issuance, reprints and employee access. |
-| [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
-| [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Key-version coverage, verified backup receipts, isolated recovery and PostgreSQL restore helpers. |
-| [Azure SQL Backup & Point-in-Time Recovery](https://github.com/truthofsource/azure-sql-backup-and-recovery) | Actual S0/Geo/14-day policy, private SQL infrastructure and isolated recovery preparation. |
+| [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Give people the access they need, and remove it reliably when their role changes. |
+| [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | Protect sensitive fields even if someone obtains a copy of the stored records. |
+| [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Let people reach the application while limiting access to its database and documents. |
+| [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Separate application networks while keeping shared connections organized. |
+| [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse cloud setup patterns without accidentally replacing the resources already in use. |
+| [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
+| [Trivy Vulnerability and Container Scanning](https://github.com/truthofsource/trivy-vulnerability-management) | See what software a release contains, what weaknesses were found and whether the check finished. |
+| [TruffleHog Secret Detection and Git History Protection](https://github.com/truthofsource/trufflehog-secret-detection) | Find possible leaked credentials, including ones deleted from the latest files. |
+| [Checkov Infrastructure Security for Azure](https://github.com/truthofsource/checkov-azure-infrastructure-security) | Find risky cloud settings before applying them, and track what still needs attention. |
+| [Authenticated Web and API Security with OWASP ZAP](https://github.com/truthofsource/owasp-zap-authenticated-security) | Check what users can reach after sign-in, including what lower-access accounts must be denied. |
+| [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Package and release the server code that was tested, without rebuilding it at the last minute. |
+| [API Business Logic and Reliable Workforce Processes](https://github.com/truthofsource/api-business-logic-and-workflow-controls) | Make sure a business change is allowed, accurate and based on the latest information. |
+| [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
+| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Give engineers one place to find the system, its owner and the instructions for running it. |
+| [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Keep uploaded files unavailable until the correct file version passes its malware check. |
+| [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Turn an approved employee photo into a consistent, print-ready badge. |
+| [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | Test recovery, make logs useful and keep temporary cloud resources under control. |
+| [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Recover the records, files, keys and settings the application needs to work. |
+| [Azure SQL Backup & Point-in-Time Recovery](https://github.com/truthofsource/azure-sql-backup-and-recovery) | Prepare to restore the database without putting the current records at risk. |
 
 ## Tech stack
 
