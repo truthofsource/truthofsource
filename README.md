@@ -32,6 +32,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | AES-GCM field encryption, managed identity, exact-key permissions and rotation/recovery |
 | [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
+| [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Actual TypeScript handler, Flex host, runtime packaging and verified artifact promotion. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Defender scan results, quarantine, exact-version proofs and protected downloads. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Portrait preparation, fixed-template rendering, issuance, reprints and employee access. |
 | [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | A saved backup becomes recovery evidence only after a restore test. |
