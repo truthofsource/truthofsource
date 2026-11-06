@@ -31,6 +31,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Separate sign-in, application access and employee lifecycle changes. |
 | [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | AES-GCM field encryption, managed identity, exact-key permissions and rotation/recovery |
 | [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Keep a public user experience while controlling the private data path. |
+| [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Actual address plan, reciprocal peering, shared-service placement and explicit routing/DNS boundaries. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Build once, inspect the selected artifact, promote the same bytes. |
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Actual TypeScript handler, Flex host, runtime packaging and verified artifact promotion. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Runtime configuration, Entra/MSAL boundaries, SPA routing and prebuilt asset promotion with Terraform. |
