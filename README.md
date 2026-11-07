@@ -59,6 +59,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | Project | Focus |
 | --- | --- |
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Package and release the server code that was tested, without rebuilding it at the last minute. |
+| [Azure API Routes: Timesheets and Applications](https://github.com/truthofsource/azure-api-routes) | Show how employee timesheets and public applications reach the right server checks, with real route troubleshooting lessons. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
 | [API Business Logic and Reliable Workforce Processes](https://github.com/truthofsource/api-business-logic-and-workflow-controls) | Make sure a business change is allowed, accurate and based on the latest information. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Turn an approved employee photo into a consistent, print-ready badge. |
