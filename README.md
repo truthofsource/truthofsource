@@ -45,7 +45,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | --- | --- |
 | [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse cloud setup patterns without accidentally replacing the resources already in use. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
-| [Container Lifecycle on Azure: the CareBridge Worker](https://github.com/truthofsource/azure-container-lifecycle-carebridge) | Follow a report worker from its code and Dockerfile to image checks, registry storage and deployment. |
+| [Container Lifecycle on Azure: the CareBridge Worker](https://github.com/truthofsource/azure-container-lifecycle) | Follow a report worker from its code and Dockerfile to image checks, registry storage and deployment. |
 | [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Help engineers find systems, their owners, operating instructions and release information. |
 
 ### FinOps and Governance
