@@ -45,7 +45,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | --- | --- |
 | [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse cloud setup patterns without accidentally replacing the resources already in use. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
-| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Give engineers one place to find the system, its owner and the instructions for running it. |
+| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Connect service ownership, engineering guidance, trustworthy release information and recovery. |
 
 ### Applications and AI
 
