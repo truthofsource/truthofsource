@@ -73,10 +73,7 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Trivy Vulnerability and Container Scanning](https://github.com/truthofsource/trivy-vulnerability-management) | See what software a release contains, what weaknesses were found and whether the check finished. |
-| [TruffleHog Secret Detection and Git History Protection](https://github.com/truthofsource/trufflehog-secret-detection) | Find possible leaked credentials, including ones deleted from the latest files. |
-| [Checkov Infrastructure Security for Azure](https://github.com/truthofsource/checkov-azure-infrastructure-security) | Find risky cloud settings before applying them, and track what still needs attention. |
-| [Authenticated Web and API Security with OWASP ZAP](https://github.com/truthofsource/owasp-zap-authenticated-security) | Check what users can reach after sign-in, including what lower-access accounts must be denied. |
+| [Layered Security Testing: Trivy, Checkov, TruffleHog and OWASP ZAP](https://github.com/truthofsource/azure-devsecops-security-scanning) | Find exposed secrets, risky cloud settings, vulnerable packages and web access issues in one coordinated review. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Keep uploaded files unavailable until the correct file version passes its malware check. |
 
 ### Storage, Data Protection and Recovery
