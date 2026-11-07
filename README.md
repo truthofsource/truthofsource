@@ -24,7 +24,7 @@ My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform
 
 ## Projects by domain
 
-These case studies draw on implemented platform engineering work, with organization details removed. Each includes a business scenario, architecture, runnable reference, screenshots, validation and scaling tradeoffs.
+These case studies draw on implemented platform engineering work, with organization details removed. Each explains the business problem, how the solution works, what was tested and how the design could grow. Local examples, screenshots and technical guides are included.
 
 ### Identity and Access
 
@@ -45,7 +45,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | --- | --- |
 | [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse cloud setup patterns without accidentally replacing the resources already in use. |
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
-| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Connect service ownership, engineering guidance, trustworthy release information and recovery. |
+| [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Help engineers find systems, their owners, operating instructions and release information. |
 
 ### FinOps and Governance
 
@@ -66,14 +66,14 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | File matching email attachments with source tracking and duplicate protection. |
-| [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Recover a provider connection using carefully checked email verification codes. |
+| [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Automatically file selected email attachments and record where they came from. |
+| [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Help restore a business connection using the right email verification code. |
 
 ### Security Testing and Malware Protection
 
 | Project | Focus |
 | --- | --- |
-| [Layered Security Testing: Trivy, Checkov, TruffleHog and OWASP ZAP](https://github.com/truthofsource/azure-devsecops-security-scanning) | Find exposed secrets, risky cloud settings, vulnerable packages and web/API access issues in one coordinated review. |
+| [Layered Security Testing: Trivy, Checkov, TruffleHog and OWASP ZAP](https://github.com/truthofsource/azure-devsecops-security-scanning) | Check for leaked passwords, unsafe cloud settings, insecure software and website access problems. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Keep uploaded files unavailable until the correct file version passes its malware check. |
 
 ### Storage, Data Protection and Recovery
