@@ -47,6 +47,12 @@ These case studies draw on implemented platform engineering work, with organizat
 | [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
 | [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Connect service ownership, engineering guidance, trustworthy release information and recovery. |
 
+### FinOps and Governance
+
+| Project | Focus |
+| --- | --- |
+| [Azure Cost Visibility, Tagging and FinOps](https://github.com/truthofsource/azure-cost-visibility-tagging-and-finops) | Explain reported spend, connect resources to owners and review scoped cost actions. |
+
 ### Applications and AI
 
 | Project | Focus |
