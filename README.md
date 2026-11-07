@@ -51,7 +51,7 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Azure Cost Visibility, Tagging and FinOps](https://github.com/truthofsource/azure-cost-visibility-tagging-and-finops) | Explain reported spend, connect resources to owners and review scoped cost actions. |
+| [Azure Cost Visibility, Tagging and FinOps](https://github.com/truthofsource/azure-cost-visibility-tagging-and-finops) | Explain spending, connect resources to owners and review cost-saving changes before making them. |
 
 ### Applications and AI
 
@@ -66,14 +66,14 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Move qualifying attachments into protected records and explain the integration lessons. |
-| [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Read an authorized inbox safely and recover a business connection with verified messages. |
+| [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | File matching email attachments with source tracking and duplicate protection. |
+| [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Recover a provider connection using carefully checked email verification codes. |
 
 ### Security Testing and Malware Protection
 
 | Project | Focus |
 | --- | --- |
-| [Layered Security Testing: Trivy, Checkov, TruffleHog and OWASP ZAP](https://github.com/truthofsource/azure-devsecops-security-scanning) | Find exposed secrets, risky cloud settings, vulnerable packages and web access issues in one coordinated review. |
+| [Layered Security Testing: Trivy, Checkov, TruffleHog and OWASP ZAP](https://github.com/truthofsource/azure-devsecops-security-scanning) | Find exposed secrets, risky cloud settings, vulnerable packages and web/API access issues in one coordinated review. |
 | [Azure Malware Scanning & File Quarantine](https://github.com/truthofsource/secure-serverless-document-processing) | Keep uploaded files unavailable until the correct file version passes its malware check. |
 
 ### Storage, Data Protection and Recovery
