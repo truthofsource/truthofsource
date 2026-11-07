@@ -56,6 +56,13 @@ These case studies draw on implemented platform engineering work, with organizat
 | [API Business Logic and Reliable Workforce Processes](https://github.com/truthofsource/api-business-logic-and-workflow-controls) | Make sure a business change is allowed, accurate and based on the latest information. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Turn an approved employee photo into a consistent, print-ready badge. |
 
+### Integration and Automation
+
+| Project | Focus |
+| --- | --- |
+| [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Move qualifying attachments into protected records and explain the integration lessons. |
+| [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Read an authorized inbox safely and recover a business connection with verified messages. |
+
 ### Security Testing and Malware Protection
 
 | Project | Focus |
