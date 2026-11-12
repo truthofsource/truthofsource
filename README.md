@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kingsley-oku-783a113b5/">LinkedIn</a> ·
-  <a href="mailto:kingsleycoku@gmail.com">Email</a>
+  <a href="mailto:kingsleycoku@gmail.com">kingsleycoku@gmail.com</a>
 </p>
 
 ## About my work
@@ -69,6 +69,7 @@ These case studies draw on implemented platform engineering work, with organizat
 | Project | Focus |
 | --- | --- |
 | [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Automatically file selected email attachments and record where they came from. |
+| [Fowler Background Report Retrieval](https://github.com/truthofsource/fowler-background-report-retrieval) | Find the exact existing report, preserve its PDFs and recover interrupted saves with protected evidence access. |
 | [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Help restore a business connection using the right email verification code. |
 
 ### Security Testing and Malware Protection
@@ -158,4 +159,4 @@ These case studies draw on implemented platform engineering work, with organizat
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/kingsley-oku-783a113b5/) · [GitHub](https://github.com/truthofsource) · [Email](mailto:kingsleycoku@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kingsley-oku-783a113b5/) · [GitHub](https://github.com/truthofsource) · [kingsleycoku@gmail.com](mailto:kingsleycoku@gmail.com)
