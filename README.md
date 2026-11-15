@@ -25,7 +25,7 @@
 | [Sentinel Detection & Incident Response](https://github.com/truthofsource/azure-sentinel-detection-and-incident-response) | Application logs, detections and incident handling. |
 | [Layered Security Testing](https://github.com/truthofsource/azure-devsecops-security-scanning) | Trivy, Checkov, TruffleHog and authenticated ZAP. |
 | [Artifact Promotion & Verified Release](https://github.com/truthofsource/azure-artifact-promotion-and-release) | Build once, verify exact packages and prepare rollback. |
-| [Azure Backup & Recovery](https://github.com/truthofsource/azure-backup-and-recovery) | Isolated restoration and application recovery dependencies. |
+| [Azure SQL Backup & Point-in-Time Recovery](https://github.com/truthofsource/azure-sql-backup-and-recovery) | Restore a database to an earlier point in time and validate recovery in isolation. |
 
 ## Projects by domain
 
