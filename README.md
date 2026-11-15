@@ -16,6 +16,17 @@
   <a href="mailto:kingsleycoku@gmail.com">kingsleycoku@gmail.com</a>
 </p>
 
+## Featured Projects
+
+| Project | Focus |
+| --- | --- |
+| [Cloud Identity & Access Automation](https://github.com/truthofsource/cloud-identity-access-automation) | Identity lifecycle, least privilege and application access. |
+| [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Network layout, private access and DNS troubleshooting. |
+| [Sentinel Detection & Incident Response](https://github.com/truthofsource/azure-sentinel-detection-and-incident-response) | Application logs, detections and incident handling. |
+| [Layered Security Testing](https://github.com/truthofsource/azure-devsecops-security-scanning) | Trivy, Checkov, TruffleHog and authenticated ZAP. |
+| [Artifact Promotion & Verified Release](https://github.com/truthofsource/azure-artifact-promotion-and-release) | Build once, verify exact packages and prepare rollback. |
+| [Azure Backup & Recovery](https://github.com/truthofsource/azure-backup-and-recovery) | Isolated restoration and application recovery dependencies. |
+
 ## Projects by domain
 
 These case studies draw on implemented platform engineering work, with organization details removed. Each explains the business problem, how the solution works, what was tested and how the design could grow. Local examples, screenshots and technical guides are included.
@@ -30,15 +41,14 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
-| [Secure Cloud Networking & Private Access](https://github.com/truthofsource/azure-private-networking) | Let people reach the application while limiting access to its database and documents. |
 | [Azure Hub-and-Spoke Networking](https://github.com/truthofsource/azure-hub-spoke-networking) | Separate application networks while keeping shared connections organized. |
 
 ### Infrastructure and Delivery
 
 | Project | Focus |
 | --- | --- |
+| [Artifact Promotion & Verified Release](https://github.com/truthofsource/azure-artifact-promotion-and-release) | Promote the verified API/web packages without rebuilding, with a checked rollback path. |
 | [Reusable Terraform Modules and Safe Infrastructure Adoption](https://github.com/truthofsource/terraform-modules-and-safe-adoption) | Reuse cloud setup patterns without accidentally replacing the resources already in use. |
-| [DevSecOps Delivery & Verified Rollback](https://github.com/truthofsource/secure-container-delivery-and-rollback) | Release the tested files and keep a verified previous version ready if something goes wrong. |
 | [Container Lifecycle on Azure: the CareBridge Worker](https://github.com/truthofsource/azure-container-lifecycle) | Follow a report worker from its code and Dockerfile to image checks, registry storage and deployment. |
 | [Backstage Developer Portal on Azure](https://github.com/truthofsource/azure-backstage-developer-portal) | Help engineers find systems, their owners, operating instructions and release information. |
 
@@ -55,7 +65,6 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Package and release the server code that was tested, without rebuilding it at the last minute. |
 | [Azure API Routes: Timesheets and Applications](https://github.com/truthofsource/azure-api-routes) | Show how employee timesheets and public applications reach the right server checks, with real route troubleshooting lessons. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
-| [API Business Logic and Reliable Workforce Processes](https://github.com/truthofsource/api-business-logic-and-workflow-controls) | Make sure a business change is allowed, accurate and based on the latest information. |
 | [AI-Assisted Employee Badge Generation](https://github.com/truthofsource/employee-badge-generation) | Turn an approved employee photo into a consistent, print-ready badge. |
 
 ### Integration and Automation
@@ -65,6 +74,12 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Automatically file selected email attachments and record where they came from. |
 | [Fowler Background Report Retrieval](https://github.com/truthofsource/fowler-background-report-retrieval) | Find the exact existing report, preserve its PDFs and recover interrupted saves with protected evidence access. |
 | [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Help restore a business connection using the right email verification code. |
+
+### Monitoring and Detection
+
+| Project | Focus |
+| --- | --- |
+| [Sentinel Detection & Incident Response](https://github.com/truthofsource/azure-sentinel-detection-and-incident-response) | Collect application security logs, investigate detections and exercise incident response. |
 
 ### Security Testing and Malware Protection
 
@@ -81,7 +96,6 @@ These case studies draw on implemented platform engineering work, with organizat
 | [Azure Key Vault Encryption Wrapper](https://github.com/truthofsource/azure-envelope-encryption) | Protect sensitive fields even if someone obtains a copy of the stored records. |
 | [Azure Backup & Recovery Engineering](https://github.com/truthofsource/azure-backup-and-recovery) | Recover the records, files, keys and settings the application needs to work. |
 | [Azure SQL Backup & Point-in-Time Recovery](https://github.com/truthofsource/azure-sql-backup-and-recovery) | Prepare to restore the database without putting the current records at risk. |
-| [Platform Operations & Recovery Engineering](https://github.com/truthofsource/platform-operations-and-recovery) | Test recovery, make logs useful and keep temporary cloud resources under control. |
 
 ## Tech stack
 
