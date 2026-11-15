@@ -16,12 +16,6 @@
   <a href="mailto:kingsleycoku@gmail.com">kingsleycoku@gmail.com</a>
 </p>
 
-## About my work
-
-I designed and built an **Azure workforce and operations platform** for a healthcare services organization. It brings employee onboarding, documentation, timesheets, shift notes and payroll review into one environment, replacing disconnected paper and email processes with controlled digital records and consistent review steps.
-
-My day-to-day work spans **Microsoft Entra ID and Microsoft Graph**, **Terraform**, **Azure Functions and Node.js**, **GitHub Actions**, and production troubleshooting. I work across application code and infrastructure, from a user's sign-in through API permissions, private storage, deployment and recovery.
-
 ## Projects by domain
 
 These case studies draw on implemented platform engineering work, with organization details removed. Each explains the business problem, how the solution works, what was tested and how the design could grow. Local examples, screenshots and technical guides are included.
