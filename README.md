@@ -62,6 +62,9 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
+| [Document OCR with Python](https://github.com/truthofsource/azure-document-ocr-python) | Read approved scans into page-numbered text and recover uncertain processing safely. |
+| [Role-Aware RAG with Python](https://github.com/truthofsource/azure-role-aware-rag-python) | Find permitted document passages and generate optional cited answers. |
+| [Employee Badge Generation with Python](https://github.com/truthofsource/employee-badge-generation-python) | Prepare portraits, render print-sized badges and manage exact issued copies. |
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Package and release the server code that was tested, without rebuilding it at the last minute. |
 | [Azure API Routes: Timesheets and Applications](https://github.com/truthofsource/azure-api-routes) | Show how employee timesheets and public applications reach the right server checks, with real route troubleshooting lessons. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
@@ -71,6 +74,7 @@ These case studies draw on implemented platform engineering work, with organizat
 
 | Project | Focus |
 | --- | --- |
+| [Email Document Ingestion with Python](https://github.com/truthofsource/azure-document-ingestion-python) | Read a fixed mailbox window, quarantine selected attachments and prevent duplicate filing. |
 | [Email Document Ingestion with Azure Logic Apps](https://github.com/truthofsource/azure-logic-apps-document-ingestion) | Automatically file selected email attachments and record where they came from. |
 | [Fowler Background Report Retrieval](https://github.com/truthofsource/fowler-background-report-retrieval) | Find the exact existing report, preserve its PDFs and recover interrupted saves with protected evidence access. |
 | [Gmail API Access and Provider MFA Recovery](https://github.com/truthofsource/gmail-api-access-and-mfa-recovery) | Help restore a business connection using the right email verification code. |
