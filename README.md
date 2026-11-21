@@ -63,8 +63,8 @@ These case studies draw on implemented platform engineering work, with organizat
 | Project | Focus |
 | --- | --- |
 | [Document OCR with Python](https://github.com/truthofsource/azure-document-ocr-python) | Read approved scans into page-numbered text and recover uncertain processing safely. |
-| [Role-Aware RAG with Python](https://github.com/truthofsource/azure-role-aware-rag-python) | Find permitted document passages and generate optional cited answers. |
-| [Employee Badge Generation with Python](https://github.com/truthofsource/employee-badge-generation-python) | Prepare portraits, render print-sized badges and manage exact issued copies. |
+| [Secure RAG AI Chatbot](https://github.com/truthofsource/secure-rag-ai-chatbot) | Find permitted document passages and generate optional cited answers. |
+| [AI-Assisted Employee Badge Generation (Python)](https://github.com/truthofsource/employee-badge-generation-python) | Prepare portraits, render print-sized badges and manage exact issued copies. |
 | [Deploying a Node.js API on Azure Functions](https://github.com/truthofsource/azure-nodejs-api-deployment) | Package and release the server code that was tested, without rebuilding it at the last minute. |
 | [Azure API Routes: Timesheets and Applications](https://github.com/truthofsource/azure-api-routes) | Show how employee timesheets and public applications reach the right server checks, with real route troubleshooting lessons. |
 | [Deploying React with Azure Static Web Apps](https://github.com/truthofsource/azure-react-static-web-apps) | Build the website once, then give each environment its own connection settings. |
